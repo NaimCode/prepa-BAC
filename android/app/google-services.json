@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1000737766092",
+    "project_id": "prepa-bac",
+    "storage_bucket": "prepa-bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000737766092:android:04df8a8148cf64e4456069",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000737766092-s13j40v5dqvtte72gevtrupflb9lpid9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPxSCtQCfg69jQOjBdpp5WV9paee2pDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000737766092-s13j40v5dqvtte72gevtrupflb9lpid9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000737766092-nbq9rriarqa56p8clbijs98ve23n349v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
