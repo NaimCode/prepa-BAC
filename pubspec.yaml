@@ -12,6 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_hooks: ^0.18.5+1
+  get: ^4.6.5
+  hooks_riverpod: ^2.0.0-dev.9
 
 dev_dependencies:
   flutter_lints: ^2.0.0
